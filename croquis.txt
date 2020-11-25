@@ -1,0 +1,4 @@
+croquis
+1-login +  3 ultimos usuarios + boton abajo para volver al login. .
+2-otro html con cada usuario por separado +boton abajo para volver al login + boton cerrar sesion (vuelve a login)
+3-pagina de estilos
