@@ -1,5 +1,5 @@
 body { 
-    background-color: #89CE94;
+    background: url(https://image.freepik.com/vector-gratis/codigo-programacion_46706-690.jpg);
     font-family: 'Teko', sans-serif;
 }
 .formulario {
@@ -9,7 +9,8 @@ body {
     text-align: center;
     margin-left: 40%;
     margin-right: 40%;
-    border-style: dashed;
+    border-color: black;
+    background-color: #89CE94;
 }
 
 .boton {
@@ -23,4 +24,8 @@ body {
 
 .otrosPerfiles {
     text-align: center;
+    color: white;
+}
+a {
+    color:white;
 }
