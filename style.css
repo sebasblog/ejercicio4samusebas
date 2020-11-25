@@ -29,3 +29,21 @@ body {
 a {
     color:white;
 }
+.estiloImagen {
+    border: 2px solid black;
+    width: 300px;
+    border-radius: 5px;
+    float: left;
+    margin-right: 300px;
+
+}
+.formularioPerfil {
+    font-size: 20px;
+    border: 3px solid black;
+    border-radius: 20px;
+    text-align: center;
+    margin-left: 200px;
+     border-color: black;
+    background-color: #89CE94;
+    
+}
